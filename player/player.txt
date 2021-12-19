@@ -1,0 +1,8 @@
+0-46 walk
+47-67 run
+68-143 idle
+144-178 walk left
+179-213 walk right
+214-234 run left
+235-255 run right
+256-276 run back
