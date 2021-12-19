@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TekwarRemakeMP", "Assembly-CSharp-firstpass.csproj", "{C67010D2-FA4E-2A1B-13A6-7501A7532D05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TekwarRemakeMP", "Assembly-CSharp.csproj", "{F78B9B4B-8C1F-5EAE-3D7E-44733AD93361}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TekwarRemakeMP", "Assembly-UnityScript-firstpass.unityproj", "{DFBE051A-7640-06E9-F252-6D95011E7E79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TekwarRemakeMP", "Assembly-UnityScript.unityproj", "{44AF1ADE-C1C6-C65B-64C3-679D7B7956B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C67010D2-FA4E-2A1B-13A6-7501A7532D05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C67010D2-FA4E-2A1B-13A6-7501A7532D05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C67010D2-FA4E-2A1B-13A6-7501A7532D05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C67010D2-FA4E-2A1B-13A6-7501A7532D05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F78B9B4B-8C1F-5EAE-3D7E-44733AD93361}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F78B9B4B-8C1F-5EAE-3D7E-44733AD93361}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F78B9B4B-8C1F-5EAE-3D7E-44733AD93361}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F78B9B4B-8C1F-5EAE-3D7E-44733AD93361}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFBE051A-7640-06E9-F252-6D95011E7E79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFBE051A-7640-06E9-F252-6D95011E7E79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFBE051A-7640-06E9-F252-6D95011E7E79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFBE051A-7640-06E9-F252-6D95011E7E79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44AF1ADE-C1C6-C65B-64C3-679D7B7956B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44AF1ADE-C1C6-C65B-64C3-679D7B7956B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44AF1ADE-C1C6-C65B-64C3-679D7B7956B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44AF1ADE-C1C6-C65B-64C3-679D7B7956B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
